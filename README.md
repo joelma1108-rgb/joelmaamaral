@@ -2,7 +2,7 @@
 <body>
 <header>
   <h1>Joelma Nascimento Ferreira do Amaral</h1>
-  <p>Analista Administrativo Financeiro | +9 anos de experiência | Remoto e Brasil</p>
+  <p>Analista Administrativo Financeiro | +10 anos de experiência no setor administrativo financeiro, mais de 5 anos no modelo remototo</p>
 </header>
 <main>
   <section>
