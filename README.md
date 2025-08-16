@@ -1,88 +1,4 @@
-html
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Joelma Amaral | Portfólio</title>
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-  body {
-    margin: 0; padding: 0;
-    font-family: 'Montserrat', sans-serif;
-    background: #f0f2f5;
-    color: #333;
-  }
-  header {
-    background: #5551cc;
-    color: white;
-    padding: 40 px 20 px;
-    text-align: center;
-  }
-  header h1 {
-    margin: 0;
-    font-weight: 700;
-    font-size: 2.8 rem;
-  }
-  header p {
-    margin: 5 px 0 0;
-    font-weight: 400;
-    font-size: 1.2 rgb;
-    opacity: 0.85;
-  }
-  main {
-    max-width: 900 px;
-    margin: 30 px auto;
-    padding: 0 20 px;
-  }
-  section {
-    margin-bottom: 40 px;
-  }
-  h2 {
-    border-bottom: 3 px solid #5551cc;
-    padding-bottom: 8 px;
-    margin-bottom: 20 px;
-    color: #5551cc;
-  }
-  ul {
-    list-style: none;
-    padding-left: 0;
-  }
-  ul li {
-    background: white;
-    margin-bottom: 12 px;
-    padding: 15 px 20 px;
-    border-radius: 8 px;
-    box-shadow: 0 2 px 8 px rgb (0 0 0 / 0.1);
-font-weight: 500;
-  }
-  ul li strong {
-    color: #222;
-  }
-  footer {
-    text-align: center;
-    padding: 20 px;
-    font-size: 0.9 rem;
-    color: #777;
-  }
-  a {
-    color: #5551cc;
-    text-decoration: none;
-    font-weight: 600;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  @media (max-width: 600 px) {
-    header h1 {
-      font-size: 2 rem;
-    }
-    header p {
-      font-size: 1 rem;
-    }
-  }
-</style>
-url
+</style>urll
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -170,7 +86,7 @@ font-weight: 500;
 <body>
 <header>
   <h1>Joelma Nascimento Ferreira do Amaral</h1>
-  <p>Analista Administrativo Financeiro | +9 anos de experiência | Remoto e Brasil</p>
+  <p>Analista Administrativo Financeiro | +10 de experiência no setor administrativo financeiroeexperiênciaeexRemotocRemotorasila| Remoto e Brasil</p>
 </header>
 
 <main>
