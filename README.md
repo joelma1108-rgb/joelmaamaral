@@ -1,6 +1,3 @@
-text-decoration: 1% melhor a cada dia;
-  }
-</style>
 </head>
 <body>
 <header>
